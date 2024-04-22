@@ -1,0 +1,10 @@
+sigma_plan: 0.3
+sigma_pred: 0.3
+goal_separation: 3
+goals: [[20,-5], [20,5]]
+goal_index: 0
+monte_carlo_samples: 100
+alpha_steps: 100
+alpha_max: 0
+safety_radius: 1
+collision_cost: 10000000000 # A high collision cost -> Constraint is enforced

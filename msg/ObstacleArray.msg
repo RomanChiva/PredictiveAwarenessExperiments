@@ -1,0 +1,2 @@
+# ObstacleArray.msg
+Obstacle[] obstacles
